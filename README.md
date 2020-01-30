@@ -1,1 +1,1 @@
-Set of AWS Cognito Triggers Sample
+Set of AWS Cognito Triggers Samples

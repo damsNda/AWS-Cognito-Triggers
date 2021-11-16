@@ -13,6 +13,6 @@
     "@types/aws-sdk": "^2.7.0",
     "@types/node": "^13.5.2",
     "aws-lambda": "^1.0.5",
-    "aws-sdk": "^2.610.0"
+    "aws-sdk": "^2.814.0"
   }
 }
